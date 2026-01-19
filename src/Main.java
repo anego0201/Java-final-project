@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("này là để xem là nếu chưa merge file thì commit sẽ bị như thế nào!");
 		System.out.println("là sao chưa hiểu ta");
 		System.out.println("Còn đây là để test merge từ github về máy");
+		System.out.println("im here to see if the pushing work");
 	
 	}
 }
