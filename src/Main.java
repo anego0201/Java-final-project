@@ -14,7 +14,7 @@
 //	2. SECOND PROBLEM
 //	Canceling come when the rush hour arrive!
 
-//	#Queue list will need to be implement for customer oder
+//	#Queue list will need to be implement for customer oders
 //	-> Customer class
 //		- Bill number
 //		- Food list
@@ -35,9 +35,13 @@
 //	-> after all the observation, time queue will be shown in font of the cashier so the customer can decide
 //	whether buy or not!
 
+//-------------------------------------------------------
+//	#
+
 
 public class Main {
 	public static void main(String[] args) {
-	
+		// Create a display Menu (WIth time queue and number queue)
+		// Take customer order and store in array list 
 	}
 }
