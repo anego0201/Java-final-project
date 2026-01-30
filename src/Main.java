@@ -14,6 +14,8 @@
 //	2. SECOND PROBLEM
 //	Canceling come when the rush hour arrive!
 
+//	Save order list as it in Json file with (numOrder/orderList/orderQuantity/
+
 //	#Queue list will need to be implement for customer oders
 //	-> Customer class
 //		- Bill number
